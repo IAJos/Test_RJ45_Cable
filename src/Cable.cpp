@@ -105,5 +105,5 @@ bool Cable::isSorted(int tableau[], int taille)
 /// @return string : Description of the câble
 std::string Cable::cableDescription()
 {
-    return "Cable : \nType : " + c_cableType;
+    return "Cable : \n\tType : " + c_cableType;
 }
